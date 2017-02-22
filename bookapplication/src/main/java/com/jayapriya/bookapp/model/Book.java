@@ -3,7 +3,7 @@ package com.jayapriya.bookapp.model;
 public class Book {
 	private Integer id;
 	private String name;
-	private Float price;
+	private Float price; 
 	public Integer getId() {
 		return id;
 	}
